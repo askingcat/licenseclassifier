@@ -35,8 +35,8 @@ import (
 	"sort"
 	"time"
 
-	"github.com/google/licenseclassifier"
-	"github.com/google/licenseclassifier/tools/identify_license/backend"
+	"github.com/askingcat/licenseclassifier"
+	"github.com/askingcat/licenseclassifier/tools/identify_license/backend"
 )
 
 var (

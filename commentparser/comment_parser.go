@@ -23,7 +23,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/google/licenseclassifier/commentparser/language"
+	"github.com/askingcat/licenseclassifier/commentparser/language"
 )
 
 const (

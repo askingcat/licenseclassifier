@@ -1,4 +1,4 @@
-module github.com/google/licenseclassifier
+module github.com/askingcat/licenseclassifier
 
 go 1.16
 

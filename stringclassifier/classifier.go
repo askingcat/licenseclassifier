@@ -52,8 +52,8 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/google/licenseclassifier/stringclassifier/internal/pq"
-	"github.com/google/licenseclassifier/stringclassifier/searchset"
+	"github.com/askingcat/licenseclassifier/stringclassifier/internal/pq"
+	"github.com/askingcat/licenseclassifier/stringclassifier/searchset"
 	"github.com/sergi/go-diff/diffmatchpatch"
 )
 
