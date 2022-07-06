@@ -72,7 +72,6 @@ func normalizeDoc(in []byte, normWords bool) string {
 	norm := string(in)
 	norm = html.UnescapeString(norm)
 	norm = normalizePunctuation(norm)
-	norm = removeIgnorableTexts(norm)
 
 	if normWords {
 		norm = normalizeWords(norm)
